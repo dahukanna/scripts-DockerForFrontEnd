@@ -1,2 +1,2 @@
-# docker4devRuntime
-Docker scripts to run and interactively run multiple runtimes for development.
+# docker4devRuntime (d4dr)
+Bash shell scripts to run and interactively multiple docker container runtimes for development.
